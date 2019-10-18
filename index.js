@@ -1,3 +1,3 @@
 module.exports = (str) => {
-    return `💩${str}💩 2.0.1`;
+    return `💩${str}💩 2.0.3`;
 }
