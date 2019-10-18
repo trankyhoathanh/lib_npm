@@ -1,6 +1,6 @@
 {
     "name": "testlib",
-    "version": "2.1.3",
+    "version": "2.1.8",
     "description": "",
     "main": "index.js",
     "scripts": {
